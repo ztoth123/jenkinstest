@@ -3,7 +3,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-27T17:10:22.460684899+02:00"
+    created: "2021-06-27T17:37:56.574565973+02:00"
     description: A Helm chart for Kubernetes
     digest: b909223ac8ace9eb1128411af6af4dbda5a0c53846155d33e32d7dbd37befeb9
     name: helm-chart-test
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://ztoth123.github.io/jenkinstest/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-27T17:10:22.459445738+02:00"
+  helm-chart-test2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-27T17:37:56.575620488+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 81ba33001877931a1d44daf4bee90c00707a54555277db02074b54f1eaa4977a
+    name: helm-chart-test2
+    type: application
+    urls:
+    - https://ztoth123.github.io/jenkinstest/helm-chart-test2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-27T17:37:56.573282971+02:00"
